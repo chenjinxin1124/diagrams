@@ -1,149 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T14:31:53.754Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uMpjWUja2_zos2hoHdaz" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T14:34:51.821Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A55TugW1abizphOkYIru" version="20.2.7" type="github">
   <diagram id="W1gFgebdyw7sRJ1A_aVv" name="第 1 页">
     <mxGraphModel dx="2062" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="790" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="790" y="302" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="1300" y="302" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="302" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-4" value="host_name:ai-001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="100" height="30" as="geometry" />
+          <mxGeometry x="230" y="382" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-5" value="host_name:ai-002" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="320" width="100" height="30" as="geometry" />
+          <mxGeometry x="1330" y="382" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-6" value="host_name:bigdate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="320" width="100" height="30" as="geometry" />
+          <mxGeometry x="780" y="382" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-7" value="ifconfig:&lt;br&gt;&lt;div&gt;virbr0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;&amp;nbsp; mtu 1500&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet 192.168.30.1&amp;nbsp; netmask 255.255.255.0&amp;nbsp; broadcast 192.168.30.255&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ether 52:54:00:0c:7a:04&amp;nbsp; txqueuelen 1000&amp;nbsp; (以太网)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX packets 197&amp;nbsp; bytes 20031 (20.0 KB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX errors 0&amp;nbsp; dropped 0&amp;nbsp; overruns 0&amp;nbsp; frame 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX packets 283&amp;nbsp; bytes 36917 (36.9 KB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX errors 0&amp;nbsp; dropped 0 overruns 0&amp;nbsp; carrier 0&amp;nbsp; collisions 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;virbr1: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;&amp;nbsp; mtu 1500&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet 192.168.40.1&amp;nbsp; netmask 255.255.255.0&amp;nbsp; broadcast 192.168.40.255&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ether 52:54:00:df:98:d5&amp;nbsp; txqueuelen 1000&amp;nbsp; (以太网)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX packets 199&amp;nbsp; bytes 20207 (20.2 KB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX errors 0&amp;nbsp; dropped 0&amp;nbsp; overruns 0&amp;nbsp; frame 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX packets 280&amp;nbsp; bytes 36155 (36.1 KB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX errors 0&amp;nbsp; dropped 0 overruns 0&amp;nbsp; carrier 0&amp;nbsp; collisions 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="634" y="470" width="1020" height="30" as="geometry" />
+          <mxGeometry x="634" y="532" width="1020" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-8" value="ifconfig:&lt;br&gt;&lt;div&gt;enp1s0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;&amp;nbsp; mtu 1500&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet 192.168.30.235&amp;nbsp; netmask 255.255.255.0&amp;nbsp; broadcast 192.168.30.255&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet6 fe80::5054:ff:fee1:e5d0&amp;nbsp; prefixlen 64&amp;nbsp; scopeid 0x20&amp;lt;link&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ether 52:54:00:e1:e5:d0&amp;nbsp; txqueuelen 1000&amp;nbsp; (Ethernet)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX packets 1416&amp;nbsp; bytes 98784 (96.4 KiB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX errors 0&amp;nbsp; dropped 1097&amp;nbsp; overruns 0&amp;nbsp; frame 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX packets 155&amp;nbsp; bytes 20554 (20.0 KiB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX errors 0&amp;nbsp; dropped 0 overruns 0&amp;nbsp; carrier 0&amp;nbsp; collisions 0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="410" width="480" height="30" as="geometry" />
+          <mxGeometry x="100" y="472" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-9" value="ifconfig:&lt;br&gt;&lt;div&gt;enp1s0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;&amp;nbsp; mtu 1500&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet 192.168.40.205&amp;nbsp; netmask 255.255.255.0&amp;nbsp; broadcast 192.168.40.255&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet6 fe80::5054:ff:feff:d460&amp;nbsp; prefixlen 64&amp;nbsp; scopeid 0x20&amp;lt;link&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ether 52:54:00:ff:d4:60&amp;nbsp; txqueuelen 1000&amp;nbsp; (Ethernet)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX packets 1423&amp;nbsp; bytes 98602 (96.2 KiB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX errors 0&amp;nbsp; dropped 1137&amp;nbsp; overruns 0&amp;nbsp; frame 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX packets 129&amp;nbsp; bytes 17170 (16.7 KiB)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX errors 0&amp;nbsp; dropped 0 overruns 0&amp;nbsp; carrier 0&amp;nbsp; collisions 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="420" width="420" height="30" as="geometry" />
+          <mxGeometry x="1160" y="482" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-10" value="route:&lt;br&gt;&lt;div&gt;Destination&amp;nbsp; &amp;nbsp; &amp;nbsp;Gateway&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Genmask&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flags Metric Ref&amp;nbsp; &amp;nbsp; Use Iface&lt;/div&gt;&lt;div&gt;default&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;bigdata&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0.0.0.0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;UG&amp;nbsp; &amp;nbsp; 100&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/div&gt;&lt;div&gt;192.168.30.0&amp;nbsp; &amp;nbsp; 0.0.0.0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.255.255.0&amp;nbsp; &amp;nbsp;U&amp;nbsp; &amp;nbsp; &amp;nbsp;100&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;192.168.40.0&amp;nbsp; &amp;nbsp; bigdata&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.255.255.0&amp;nbsp; &amp;nbsp;UG&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="660" width="400" height="30" as="geometry" />
+          <mxGeometry x="100" y="722" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-11" value="route:&lt;br&gt;&lt;div&gt;&lt;div&gt;Kernel IP routing table&lt;/div&gt;&lt;div&gt;Destination&amp;nbsp; &amp;nbsp; &amp;nbsp;Gateway&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Genmask&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flags Metric Ref&amp;nbsp; &amp;nbsp; Use Iface&lt;/div&gt;&lt;div&gt;default&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;bigdata&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0.0.0.0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;UG&amp;nbsp; &amp;nbsp; 100&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;192.168.30.0&amp;nbsp; &amp;nbsp; bigdata&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.255.255.0&amp;nbsp; &amp;nbsp;UG&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;192.168.40.0&amp;nbsp; &amp;nbsp; 0.0.0.0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.255.255.0&amp;nbsp; &amp;nbsp;U&amp;nbsp; &amp;nbsp; &amp;nbsp;100&amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 enp1s0&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="670" width="400" height="30" as="geometry" />
+          <mxGeometry x="1160" y="732" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-12" value="&lt;div&gt;bigdata# iptables -t nat -vnL POSTROUTING --line-number&lt;/div&gt;&lt;div&gt;Chain POSTROUTING (policy ACCEPT 978 packets, 80590 bytes)&lt;/div&gt;&lt;div&gt;num&amp;nbsp; &amp;nbsp;pkts bytes target&amp;nbsp; &amp;nbsp; &amp;nbsp;prot opt in&amp;nbsp; &amp;nbsp; &amp;nbsp;out&amp;nbsp; &amp;nbsp; &amp;nbsp;source&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;destination&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; &amp;nbsp; 12390 1023K LIBVIRT_PRT&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !docker0&amp;nbsp; 172.17.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !br-c95e5f3e6eb8&amp;nbsp; 172.21.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !br-aaa5b9ea3864&amp;nbsp; 172.18.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;5&amp;nbsp; &amp;nbsp; &amp;nbsp;3817&amp;nbsp; 229K MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !br-5acad026af69&amp;nbsp; 172.22.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;6&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !br-492d889e2586&amp;nbsp; 172.20.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;7&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; !br-d0c2a2aec896&amp;nbsp; 172.19.0.0/16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0.0.0.0/0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; tcp&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tcp dpt:6379&lt;/div&gt;&lt;div&gt;9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; tcp&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tcp dpt:2181&lt;/div&gt;&lt;div&gt;10&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; tcp&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.6&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.6&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tcp dpt:9092&lt;/div&gt;&lt;div&gt;11&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; tcp&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;172.22.0.3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tcp dpt:27017&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; virbr1&amp;nbsp; 192.168.30.0/24&amp;nbsp; &amp;nbsp; &amp;nbsp; 192.168.40.0/24&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;13&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp;0 MASQUERADE&amp;nbsp; all&amp;nbsp; --&amp;nbsp; *&amp;nbsp; &amp;nbsp; &amp;nbsp; virbr0&amp;nbsp; 192.168.40.0/24&amp;nbsp; &amp;nbsp; &amp;nbsp; 192.168.30.0/24&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="740" width="590" height="30" as="geometry" />
+          <mxGeometry x="590" y="802" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-13" value="192.168.40.1/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="270" width="90" height="20" as="geometry" />
+          <mxGeometry x="840" y="332" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-14" value="192.168.30.1/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="270" width="90" height="20" as="geometry" />
+          <mxGeometry x="730" y="332" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-15" value="192.168.30.235/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="100" height="20" as="geometry" />
+          <mxGeometry x="290" y="332" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-16" value="192.168.40.205/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="270" width="100" height="20" as="geometry" />
+          <mxGeometry x="1230" y="332" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-19" value="enp1s0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="1211" y="352" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-20" value="virbr1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="900" y="352" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-21" value="virbr0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="352" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-22" value="enp1s0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="352" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NN0W6QtwbJhBw6NKLgg-15" target="5NN0W6QtwbJhBw6NKLgg-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="420" as="sourcePoint" />
-            <mxPoint x="900" y="370" as="targetPoint" />
+            <mxPoint x="850" y="482" as="sourcePoint" />
+            <mxPoint x="900" y="432" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="222" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NN0W6QtwbJhBw6NKLgg-15" target="5NN0W6QtwbJhBw6NKLgg-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="210" as="sourcePoint" />
-            <mxPoint x="730" y="215" as="targetPoint" />
+            <mxPoint x="390" y="272" as="sourcePoint" />
+            <mxPoint x="730" y="277" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="100" />
+              <mxPoint x="560" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5NN0W6QtwbJhBw6NKLgg-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="270" as="sourcePoint" />
-            <mxPoint x="1250" y="210" as="targetPoint" />
+            <mxPoint x="390" y="332" as="sourcePoint" />
+            <mxPoint x="1250" y="272" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="40" />
+              <mxPoint x="560" y="102" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NN0W6QtwbJhBw6NKLgg-16" target="5NN0W6QtwbJhBw6NKLgg-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="140" as="sourcePoint" />
-            <mxPoint x="1390" y="145" as="targetPoint" />
+            <mxPoint x="1050" y="202" as="sourcePoint" />
+            <mxPoint x="1390" y="207" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="160" />
+              <mxPoint x="1080" y="222" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NN0W6QtwbJhBw6NKLgg-16" target="5NN0W6QtwbJhBw6NKLgg-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1265" y="280" as="sourcePoint" />
-            <mxPoint x="940" y="285" as="targetPoint" />
+            <mxPoint x="1265" y="342" as="sourcePoint" />
+            <mxPoint x="940" y="347" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="100" />
+              <mxPoint x="1080" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NN0W6QtwbJhBw6NKLgg-16" target="5NN0W6QtwbJhBw6NKLgg-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="270" as="sourcePoint" />
-            <mxPoint x="785" y="280" as="targetPoint" />
+            <mxPoint x="1250" y="332" as="sourcePoint" />
+            <mxPoint x="785" y="342" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="40" />
+              <mxPoint x="1080" y="102" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-32" value="通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="990" y="152" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-33" value="不通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="1050" y="72" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-35" value="不通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="72" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-36" value="通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="990" y="212" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-37" value="通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="132" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-38" value="通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="192" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-41" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;route add -net 192.168.40.0 netmask 255.255.255.0 gw 192.168.30.1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="25" y="720" width="550" height="30" as="geometry" />
+          <mxGeometry x="25" y="782" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-42" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;route add -net 192.168.30.0 netmask 255.255.255.0 gw 192.168.40.1&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1080.5" y="730" width="559" height="30" as="geometry" />
+          <mxGeometry x="1080.5" y="792" width="559" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NN0W6QtwbJhBw6NKLgg-43" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;iptables -t nat -A POSTROUTING -s 192.168.30.0/24 -d 192.168.40.0/24 -o virbr1 -j MASQUERADE&lt;/div&gt;&lt;div&gt;iptables -t nat -A POSTROUTING -s 192.168.40.0/24 -d 192.168.30.0/24 -o virbr0 -j MASQUERADE&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="450" y="890" width="780" height="30" as="geometry" />
+          <mxGeometry x="590" y="962" width="780" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
